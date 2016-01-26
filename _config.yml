@@ -1,7 +1,7 @@
 name: apvi
 favicon: null
-layout_spectrum: 0.9526967962738127
-typography_spectrum: 0.5580944372341037
+layout_spectrum: 0
+typography_spectrum: 0.28795
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2480372276622802
-  lightness: 0.4373410453554243
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.43960317270830274
   rhythmicContrast: 0.7583156435284764
 purpose: []
