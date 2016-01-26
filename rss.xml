@@ -4,18 +4,11 @@
         <description><![CDATA[apvi]]></description>
         <link>https://thegrid.ai/apvi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 21:29:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 21:28:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apvi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Aerial Photography & Video Innovations]]></title>
-            <description><![CDATA[<article><h1>Aerial Photography & Video Innovations</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea9d8872a06fe36ee7853c92d7dc618687b347ce.jpg"></article>]]></description>
-            <link>https://thegrid.ai/apvi/aerial-photography-and-video-innovations/index.html</link>
-            <guid isPermaLink="false">638e58f1-c284-4f14-af4e-fc7b2119e8e6</guid>
-            <pubDate>Tue, 26 Jan 2016 21:13:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Naturaleza y Vida Salvaje]]></title>
-            <description><![CDATA[<article><h1>Naturaleza y Vida Salvaje</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a6af7d80726070e2fb50f1058db09357d05fcf.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Naturaleza y Vida Salvaje</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6877c335ebeaba26b45a4f3d532857c8c8e0a300.jpg"></article>]]></description>
             <link>https://thegrid.ai/apvi/naturaleza-y-vida-salvaje/index.html</link>
             <guid isPermaLink="false">94452bd8-1373-4e18-8731-9010932fdfd5</guid>
             <pubDate>Tue, 26 Jan 2016 21:13:45 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>https://thegrid.ai/apvi/073f8a1c-4939-4195-af46-1f4da771f353/index.html</link>
             <guid isPermaLink="false">073f8a1c-4939-4195-af46-1f4da771f353</guid>
             <pubDate>Tue, 26 Jan 2016 21:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3f6a65347efb492eccabbae70226e86354042f9.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/apvi/3c881172-aa48-4ab1-97e8-fdf3095405de/index.html</link>
+            <guid isPermaLink="false">3c881172-aa48-4ab1-97e8-fdf3095405de</guid>
+            <pubDate>Tue, 26 Jan 2016 21:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
