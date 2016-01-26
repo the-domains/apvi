@@ -6,23 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T20:50:45.432Z'
-dateModified: '2016-01-26T19:44:16.162Z'
+datePublished: '2016-01-26T21:12:32.925Z'
+dateModified: '2016-01-26T21:04:41.388Z'
 title: Industrial y Corporativa
 author: []
+sourcePath: _posts/2016-01-26-industrial-y-corporativa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-industrial-y-corporativa.md
-published: true
 url: industrial-y-corporativa/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b99e8ac1-c944-40a5-b9c3-1bb315b81dd5.jpg)
+## Industrial y Corporativa
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96e0a852eabc778bbd8d2b4612c38e5a475d306c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65470591-74ed-4d79-b545-dd8b4040622a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/961a242e-b0b9-470a-8d41-598c3030991b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcb44df4-d76a-4aff-a5bd-68faad383bf5.jpg)
