@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T21:13:54.803Z'
+datePublished: '2016-01-26T21:13:54.789Z'
 dateModified: '2016-01-26T21:00:41.749Z'
 title: 'Aerial Photography & Video Innovations'
 author: []
