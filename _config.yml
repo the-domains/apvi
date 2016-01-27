@@ -1,40 +1,40 @@
-name: apvi
-favicon: null
-layout_spectrum: 0.148398
-typography_spectrum: 0.5370995
+layout_spectrum: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.4688027
+  brandStrength: 0
+  lightness: 0.5067453
   brandColors:
     - '#1f1e1d'
     - '#685e53'
     - '#f3f8f6'
     - '#8d887d'
     - '#65c9fc'
-  brandStrength: 0
-  lightness: 0.4375
-  saturation: 0.4375
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.8381113
+typography_spectrum: 0.5370995
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: apvi
