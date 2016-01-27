@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T01:38:47.609Z'
-dateModified: '2016-01-27T01:37:27.992Z'
+datePublished: '2016-01-27T02:03:45.935Z'
+dateModified: '2016-01-27T02:03:41.492Z'
 title: Inmobiliaria y Publicidad
 author: []
 sourcePath: _posts/2016-01-26-inmobiliaria-y-publicidad.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: inmobiliaria-y-publicidad/index.html
+_type: Article
 
 ---
 ## Inmobiliaria y Publicidad
