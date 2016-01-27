@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T01:39:36.883Z'
-dateModified: '2016-01-27T01:38:18.717Z'
+datePublished: '2016-01-27T02:02:24.327Z'
+dateModified: '2016-01-27T02:02:21.786Z'
 title: Destinos y Turísmo
 author: []
 sourcePath: _posts/2016-01-26-destinos-y-turismo.md
@@ -18,14 +18,15 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: destinos-y-turismo/index.html
+_type: Article
 
 ---
 ## Destinos y Turismo
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a727c56-10fd-478a-bdcb-09913049b2a2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bef5d251282f49dd46d9297560330e9ba2d3d63.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f4f1d38-ba35-43d0-b9f8-3f5ccdc836e5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89d3f67c-85fb-4167-9fe7-d9c690fafa3b.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a727c56-10fd-478a-bdcb-09913049b2a2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f17af6cb-5df4-43b1-8d90-d48aba8b47d1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/213de719-8a0b-4fda-aa67-588e2ad15804.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b465c651-1129-4fd4-b74d-56ba3e194208.jpg)
