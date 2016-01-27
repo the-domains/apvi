@@ -4,11 +4,18 @@
         <description><![CDATA[apvi]]></description>
         <link>https://thegrid.ai/apvi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 02:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 02:10:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apvi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Industrial y Corporativa]]></title>
+            <description><![CDATA[<article><h1>Industrial y Corporativa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37f8ab42db5c3c988bcd1a9b9fdec5a42cee2d32.jpg"></article>]]></description>
+            <link>https://thegrid.ai/apvi/industrial-y-corporativa/index.html</link>
+            <guid isPermaLink="false">c03171ae-3ade-45ac-9eb3-f4316018e8b4</guid>
+            <pubDate>Wed, 27 Jan 2016 02:03:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Agricultura y Ganadería]]></title>
-            <description><![CDATA[<article><h1>Agricultura y Ganadería</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff822ef8779c0dcc8af18c02f7d51b65b1483ec2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Agricultura y Ganadería</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e250f1e1d80976290232bdf72e2ee237c6c015ac.jpg"></article>]]></description>
             <link>https://thegrid.ai/apvi/agricultura-y-ganaderia/index.html</link>
             <guid isPermaLink="false">af26ed0a-2db3-4e31-8c2f-9a1ff70c1de3</guid>
             <pubDate>Wed, 27 Jan 2016 02:02:57 GMT</pubDate>
