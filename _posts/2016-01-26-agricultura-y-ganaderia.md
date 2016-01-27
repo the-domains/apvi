@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T01:39:29.124Z'
-dateModified: '2016-01-27T01:38:06.650Z'
+datePublished: '2016-01-27T02:02:57.199Z'
+dateModified: '2016-01-27T02:02:44.469Z'
 title: Agricultura y Ganadería
 author: []
 sourcePath: _posts/2016-01-26-agricultura-y-ganaderia.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: agricultura-y-ganaderia/index.html
+_type: Article
 
 ---
 ## Agricultura y Ganadería
