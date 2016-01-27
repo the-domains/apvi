@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Email.-  miguelabriones@apvi.com.mx      Mobil.-  044-55-1451-4256
-datePublished: '2016-01-27T23:26:49.716Z'
-dateModified: '2016-01-27T23:26:43.909Z'
-title: ''
+datePublished: '2016-01-27T23:36:20.195Z'
+dateModified: '2016-01-27T23:36:17.251Z'
+title: Contacto
 author: []
 sourcePath: _posts/2016-01-26-email-miguelabrionesapvicommx-mobil-044-55-145.md
 published: true
