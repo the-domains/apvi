@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: apvi
 opengraph:
   image: null
   type: null
@@ -21,20 +19,22 @@ collections:
 purpose: []
 color:
   saturation: 0.4924115
-  brandStrength: 0
   lightness: 0.5067453
+  brandStrength: 0
   brandColors:
     - '#1f1e1d'
     - '#685e53'
     - '#f3f8f6'
     - '#8d887d'
     - '#65c9fc'
-  rhythmicContrast: 0.5236087
+  rhythmicContrast: 0.3296796
 typography_spectrum: 0.5370995
-layout_spectrum: 0.148398
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: apvi
+layout_spectrum: 0.148398
