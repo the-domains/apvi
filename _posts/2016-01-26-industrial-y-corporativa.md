@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T01:39:19.660Z'
-dateModified: '2016-01-27T01:37:43.627Z'
+datePublished: '2016-01-27T02:03:19.644Z'
+dateModified: '2016-01-27T02:03:15.582Z'
 title: Industrial y Corporativa
 author: []
 sourcePath: _posts/2016-01-26-industrial-y-corporativa.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: industrial-y-corporativa/index.html
+_type: Article
 
 ---
 ## Industrial y Corporativa
