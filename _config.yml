@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: apvi
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#65c9fc'
   rhythmicContrast: 0.8381113
 typography_spectrum: 0.5370995
+layout_spectrum: 0.6897133
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
-name: apvi
+analytics:
+  twitter: null
+  google: null
+  facebook: null
