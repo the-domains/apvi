@@ -4,11 +4,18 @@
         <description><![CDATA[apvi]]></description>
         <link>https://thegrid.ai/apvi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 02:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 02:11:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apvi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Inmobiliaria y Publicidad]]></title>
+            <description><![CDATA[<article><h1>Inmobiliaria y Publicidad</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/038335f245b294f3d088d602640544705f980e55.png"></article>]]></description>
+            <link>https://thegrid.ai/apvi/inmobiliaria-y-publicidad/index.html</link>
+            <guid isPermaLink="false">465667ab-6fe1-4c94-a7c7-6684e3d08c4c</guid>
+            <pubDate>Wed, 27 Jan 2016 02:03:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Industrial y Corporativa]]></title>
-            <description><![CDATA[<article><h1>Industrial y Corporativa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37f8ab42db5c3c988bcd1a9b9fdec5a42cee2d32.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Industrial y Corporativa</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ec0b598d7574fabd91f8381983422e099bdf27.jpg"></article>]]></description>
             <link>https://thegrid.ai/apvi/industrial-y-corporativa/index.html</link>
             <guid isPermaLink="false">c03171ae-3ade-45ac-9eb3-f4316018e8b4</guid>
             <pubDate>Wed, 27 Jan 2016 02:03:20 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/apvi/22d019b2-f5ed-4455-92bd-42a70aec5b66/index.html</link>
             <guid isPermaLink="false">22d019b2-f5ed-4455-92bd-42a70aec5b66</guid>
             <pubDate>Tue, 26 Jan 2016 21:12:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Edición y Postproducción]]></title>
-            <description><![CDATA[<article><h1>Edición y Postproducción</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15fc12ed884a7da81d1193b5af10ba91c0d724af.jpg"></article>]]></description>
-            <link>https://thegrid.ai/apvi/2fd2fc16-0a8d-4482-8956-d8b463560bd3/index.html</link>
-            <guid isPermaLink="false">2fd2fc16-0a8d-4482-8956-d8b463560bd3</guid>
-            <pubDate>Tue, 26 Jan 2016 21:12:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
