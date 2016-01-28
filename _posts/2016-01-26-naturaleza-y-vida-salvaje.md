@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:46:14.843Z'
-dateModified: '2016-01-28T17:44:13.960Z'
+datePublished: '2016-01-28T23:28:53.756Z'
+dateModified: '2016-01-28T23:28:16.233Z'
 title: Naturaleza y Vida Salvaje
 author: []
 sourcePath: _posts/2016-01-26-naturaleza-y-vida-salvaje.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 ## Naturaleza y Vida Salvaje
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/20764d256ebee533255e5325f997d8278b3f8013.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a6af7d80726070e2fb50f1058db09357d05fcf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14f5054b-d184-42b0-8132-a847dc5de14b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e61c0110-50a8-49ab-ad9e-679561fd01b9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4b83e5d-bbe9-40d3-bc00-6e42b49e9adf.jpg)
