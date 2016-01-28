@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T23:42:23.163Z'
+datePublished: '2016-01-28T23:42:23.694Z'
 dateModified: '2016-01-28T23:41:23.615Z'
 title: Industrial y Corporativa
 author: []
