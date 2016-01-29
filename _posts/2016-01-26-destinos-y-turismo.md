@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T17:58:59.276Z'
-dateModified: '2016-01-29T17:43:36.189Z'
+datePublished: '2016-01-29T20:13:41.103Z'
+dateModified: '2016-01-29T20:11:12.197Z'
 title: Destinos y Turísmo
 author: []
 sourcePath: _posts/2016-01-26-destinos-y-turismo.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: destinos-y-turismo/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Destinos y Turísmo
