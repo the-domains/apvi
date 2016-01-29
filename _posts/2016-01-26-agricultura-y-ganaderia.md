@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T01:05:05.108Z'
-dateModified: '2016-01-29T00:59:11.782Z'
+datePublished: '2016-01-29T02:41:54.699Z'
+dateModified: '2016-01-29T02:41:36.718Z'
 title: Agricultura y Ganadería
 author: []
 sourcePath: _posts/2016-01-26-agricultura-y-ganaderia.md
