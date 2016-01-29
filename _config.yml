@@ -1,4 +1,8 @@
-layout_spectrum: 0.5379426
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.8125
@@ -28,13 +32,9 @@ color:
     - '#ad4e3a'
   lightness: 0.5067453
 typography_spectrum: 0.5370995
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.8676223
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: apvi
