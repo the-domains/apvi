@@ -1,4 +1,8 @@
-name: apvi
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -28,13 +32,9 @@ color:
     - '#ad4e3a'
   lightness: 0.5067453
 typography_spectrum: 0.5370995
+layout_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 1
+name: apvi
