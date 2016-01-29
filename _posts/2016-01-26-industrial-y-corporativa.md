@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T01:04:58.189Z'
-dateModified: '2016-01-29T01:02:25.009Z'
+datePublished: '2016-01-29T02:36:05.688Z'
+dateModified: '2016-01-29T02:36:02.447Z'
 title: Industrial y Corporativa
 author: []
 sourcePath: _posts/2016-01-26-industrial-y-corporativa.md
