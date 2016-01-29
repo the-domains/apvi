@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T02:59:04.854Z'
-dateModified: '2016-01-29T02:41:29.678Z'
+datePublished: '2016-01-29T03:23:25.540Z'
+dateModified: '2016-01-29T03:22:12.550Z'
 title: Naturaleza y Vida Salvaje
 author: []
 sourcePath: _posts/2016-01-26-naturaleza-y-vida-salvaje.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: naturaleza-y-vida-salvaje/index.html
 _type: Article
 
