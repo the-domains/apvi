@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T16:26:35.792Z'
-dateModified: '2016-02-02T16:26:32.736Z'
+datePublished: '2016-02-02T16:33:32.881Z'
+dateModified: '2016-02-02T16:33:29.284Z'
 title: 'Aerial Photography & Video Innovations'
 author: []
 sourcePath: _posts/2016-01-26-aerial-photography-and-video-innovations.md
@@ -22,6 +22,4 @@ url: aerial-photography-and-video-innovations/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0f2e00-5385-4d09-bc09-76ae5e4e0ef1.jpg)
-
 # Aerial Photography & Video Innovations
