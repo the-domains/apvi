@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-05T00:15:43.998Z'
-dateModified: '2016-03-05T00:10:57.857Z'
+datePublished: '2016-03-05T00:20:28.148Z'
+dateModified: '2016-03-05T00:15:47.808Z'
 title: 'Aerial Photography & Video Innovations'
 author: []
 sourcePath: _posts/2016-01-26-aerial-photography-and-video-innovations.md
